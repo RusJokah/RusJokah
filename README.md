@@ -103,15 +103,16 @@ Web profesional para **Joan Valera**, fotógrafo de Barcelona con más de 20 añ
 </td>
 </tr>
 </table>
-
+</br>
 <div align=center>
-<!--- stats & Trophy (start) -->
+     <hr style='width:62px; height:2px; color:blue;'>
 <a href="https://github.com/RusJokah">
   <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=RusJokah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RusJokah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+     <hr style='width:95px; height:2px; color:#6E0FA6;'>
 </div>
-
+</br>
 ## Servicios
 
 Diseño web · Tiendas online · SEO · Mantenimiento · Diseño gráfico · Soporte informático

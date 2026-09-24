@@ -106,9 +106,9 @@ Web profesional para **Joan Valera**, fotógrafo de Barcelona con más de 20 añ
 
 <div align=center>
 <!--- stats & Trophy (start) -->
-<a href="https://github.com/Anton-dev3306">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/RusJokah">
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=RusJokah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RusJokah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
 
